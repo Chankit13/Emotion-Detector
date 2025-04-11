@@ -23,7 +23,6 @@ opencv-python
 numpy
 Pillow
 tk
-Install all with: pip install
 # Step 3: Run the app
 python GUI.py
 
